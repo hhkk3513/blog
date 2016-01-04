@@ -1,0 +1,98 @@
+body{
+background-image:url(image/background.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+width:100%;
+}
+#header{
+   width:1000px;
+   height:150px;
+   margin: 0px auto 0px auto;
+   position:center;
+}
+#mingcheng{
+   margin:150px 0px 0px 70px;
+   font-family:微软雅黑;
+   color:white;
+   font-size:30px;
+}
+#dizhi{
+   margin:0px 0px 0px 70px;
+   font-size:13px;
+   font-family:微软雅黑;
+   color:white;
+}
+#Navigation ul{
+  width:980px;
+  height:40px;
+  margin:0px auto 0px auto;
+  display:block;
+  //border:1px solid #000;
+}
+#Navigation ul li {
+  list-style-type:none;
+  float:left;
+}
+#Navigation ul li a{
+  
+  width:80px;
+  height:28px;
+  line-height:28px;
+  margin:5px 20px;
+  color:#FFF;
+  font-size:16px;
+  display:block;
+  text-align:center;
+  text-decoration:none;
+}
+
+#BlogBody{
+   width:950px;
+   height:500px;
+   margin:0px auto;
+}
+#CenterText{
+  background:white;
+  width:550px;
+  height:900px;
+  float:left;
+  margin:0px 10px 0px 45px;
+  filter:alpha(Poadity=80);
+  opacity:0.5;
+  -moz-opacity:0.5; 
+}
+#SideBar{
+ width:240px;
+  height:500px;
+ background:white;
+ float:left;
+  margin:0px 0px 0px 10px;
+  filter:alpha(Poadity=80);
+  opacity:0.5;
+  -moz-opacity:0.5;
+ 
+}
+.SB_header1{
+   width:240px;
+   height:23px;
+  
+}
+.SB_header1 .title{ 
+   
+}
+#Footer{
+   width:811px;
+   height:265px;
+   clear:both;
+   margin:0px auto;
+   text-align:center;
+   padding-top:75px;
+   background-position:center bottom;
+}
+#Footer p{
+    color:white;
+	font-family:宋体;
+	font-size:14px;
+	
+}
+
